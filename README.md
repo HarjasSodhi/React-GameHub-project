@@ -1,3 +1,15 @@
+# A FrontEnd Web App made using ReactJS HTML and CSS. 
+
+## You can play the following games:-
+
+Try It At https://harjassodhi.github.io/React-GameHub-project/
+
+1)Sudoku- With Color Graded error checking and solving functionality.
+2)Tic-Tac-Toe
+3)High-low --predict if the next card will be higher or lower that the current card.
+4)Match-It-- A Drag and Drop game. The goal is to match each block to its correspondig colour in the central grid.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
