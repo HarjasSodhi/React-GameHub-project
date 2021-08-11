@@ -1,0 +1,52 @@
+.TicTacToeBody {
+  color: white;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  flex-direction: column;
+}
+
+.TicTacToecontainer {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  height: 20rem;
+  width: 20rem;
+}
+
+.TicTacToeblock {
+  color: white;
+  height: 33.34%;
+  width: 33.33%;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.StatusBar {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 50px;
+  margin-top: -20px;
+}
+.Reset {
+  color: white;
+  margin-top: 1rem;
+  width: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Reset button {
+  height: 3rem;
+  color: black;
+  width: 4rem;
+  border-radius: 8px;
+}
