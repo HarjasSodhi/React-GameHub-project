@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-GameHub-project/static/css/main.39d8a1b4.chunk.css",
+    "main.js": "/React-GameHub-project/static/js/main.e61a0c53.chunk.js",
+    "main.js.map": "/React-GameHub-project/static/js/main.e61a0c53.chunk.js.map",
+    "runtime-main.js": "/React-GameHub-project/static/js/runtime-main.daad44f2.js",
+    "runtime-main.js.map": "/React-GameHub-project/static/js/runtime-main.daad44f2.js.map",
+    "static/js/2.17b87e79.chunk.js": "/React-GameHub-project/static/js/2.17b87e79.chunk.js",
+    "static/js/2.17b87e79.chunk.js.map": "/React-GameHub-project/static/js/2.17b87e79.chunk.js.map",
+    "index.html": "/React-GameHub-project/index.html",
+    "static/css/main.39d8a1b4.chunk.css.map": "/React-GameHub-project/static/css/main.39d8a1b4.chunk.css.map",
+    "static/js/2.17b87e79.chunk.js.LICENSE.txt": "/React-GameHub-project/static/js/2.17b87e79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daad44f2.js",
+    "static/js/2.17b87e79.chunk.js",
+    "static/css/main.39d8a1b4.chunk.css",
+    "static/js/main.e61a0c53.chunk.js"
+  ]
+}
