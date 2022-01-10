@@ -1,8 +1,8 @@
-import MainPage from "./MainPage";
-import TicTacToe from "./TicTacToe";
-import HiLow from './HiLow';
-import SudokuGrid from "./SudokuGrid"
-import { BrowserRouter as Router, Route, Switch, Redirect, Link } from "react-router-dom";
+import MainPage from "./Home/MainPage";
+import TicTacToe from "./TicTacToe/TicTacToe";
+import HiLow from './Hi-Low/HiLow';
+import SudokuGrid from "./Sudoku/SudokuGrid"
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 function App() {
   return (
     <Router>
